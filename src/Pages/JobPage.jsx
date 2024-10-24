@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { useParams, useLoaderData } from "react-router-dom";
 
 const JobPage = () => {
