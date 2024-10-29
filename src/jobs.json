@@ -85,49 +85,17 @@
       }
     },
     {
-      "id": "6f1c",
-      "title": "test job 1",
+      "id": "7893",
+      "title": "Test 1",
       "type": "Full-Time",
       "location": "Here",
-      "description": "this is a test",
-      "salary": "Under $50K",
+      "description": "To Test",
+      "salary": "$60K - 70K",
       "company": {
-        "name": "Compant",
-        "description": "It is great",
-        "contact": {
-          "email": "email@email.com",
-          "phone": "1234567890"
-        }
-      }
-    },
-    {
-      "id": "f106",
-      "title": "Test Job 2",
-      "type": "Full-Time",
-      "location": "Everywhere",
-      "description": "Another cool job",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Awesome Co.",
-        "description": "Yup, It's Awesome",
-        "contact": {
-          "contactEmail": "Email2@email.com",
-          "contactPhone": "0987654321"
-        }
-      }
-    },
-    {
-      "id": "8662",
-      "title": "Text Job 3",
-      "type": "Full-Time",
-      "location": "Nowhere",
-      "description": "Too many tries",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Blep!",
-        "description": "just Blep!",
-        "contactEmail": "email3@email.com",
-        "contactPhone": "1029384756"
+        "name": "A compant",
+        "description": "Does things",
+        "contactEmail": "test@test.email",
+        "contactPhone": "1234567890"
       }
     }
   ]
